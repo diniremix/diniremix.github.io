@@ -4,12 +4,26 @@ layout: welcome
 ---
 
  <div class="text-center">        
-  <img class="circular" src="https://igcdn-photos-a-a.akamaihd.net/hphotos-ak-xpa1/t51.2885-15/e15/11208586_1596699727213864_1958685864_n.jpg" >
-  <p>contact me <a href="mailto:user@example.com">user (at) example.com</a></p>
+  <img class="circular" src="public/images/diniremix.jpg" >
+  <p>contacto <a href="mailto:admix@jorgebrunal.com">admin (at) jorgebrunal (dot) co</a></p>
+
 	{% unless site.git == "" %}
 		<a id="git-ic" href="{{site.git}}"><i class="fa fa-github"></i></a>	
 	{% endunless %}
+
+    {% unless site.gplus == "" %}
+		<a id="gp-ic" href="{{site.gplus}}"><i class="fa fa-google-plus"></i></a>
+	{% endunless %}
+
+	{% unless site.twitter == "" %}
+		<a id="tw-ic" href="{{site.twitter}}"><i class="fa fa-twitter"></i></a>
+	{% endunless %}
+
 	{% unless site.stackoverflow == "" %}
       <a id="so-ic" href="{{site.stackoverflow}}"><i class="fa fa-stack-overflow"></i></a>
     {% endunless %}
+
+	{% unless site.linkedin == "" %}
+		<a id="in-ic" href="{{site.linkedin}}"><i class="fa fa-linkedin"></i></a>
+	{% endunless %}
 </div>
