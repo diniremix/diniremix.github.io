@@ -3,12 +3,14 @@ url: "blog.jorgebrunal.co" # the base hostname & protocol for your site.
 title: "Diniremix blog"
 
 paginate: 7 #articles per page
-paginate_path: /blog/page:num #makes pagination working
+paginate_path: /entries/page:num #makes pagination working
 
 #contacts
 git: "https://github.com/diniremix"  #your github url here.
 stackoverflow: "http://stackoverflow.com/users/6118820/peter-anderson" #Add your stackoverflow url here.
 twitter: "https://twitter.com/diniremix"  #Add your twitter url here.
+gplus: "https://plus.google.com/u/0/+PeterAndersonLee"  #Add your google plus url here.
+linkedin: "https://co.linkedin.com/in/jorgebrunal"  #Add your linkedin url here.
 
 #disqus comment
 disqus:
