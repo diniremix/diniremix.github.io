@@ -1,45 +1,22 @@
-# Autm-rb
+# Diniremix's blog
 
-Another theme for jekyll.
+Using **Autm-rb** Another theme for jekyll.
 based on shiori and midnight
 
-##[DEMO][demo]
+## [Link][link]
 
-- DISQUS comments
-- google analitics
-- pagination
-- tags
-- codehighlighting
-- bootstrap components
-- font awesome
+[blog.jorgebrunal.co](http://blog.jorgebrunal.co/)
+
+- [Gitter comments](https://gitter.im/jorgebrunal-co/blog)
+- [Twitter](https://twitter.com/diniremix)
+- [Google+](https://plus.google.com/u/0/+PeterAndersonLee)
+
+
 
 #### Contribution
 Pull Requests always welcome.
 
 ## Screens
 
-![](screenshots/home.png)
-![](screenshots/post.png)
+![](http://i.imgur.com/mU46w1h.png)
 
-## Installation
-
-- [Fork this repository][fork]
-- Clone it: `git clone https://github.com/YOUR-USER/autm-rb`
-- Install the [GitHub Pages gem][pages] (includes Jekyll): `bundle install`
-- Run the jekyll server: `jekyll serve` or `bundle exec jekyll serve`
-
-## Customization
-
-Edit this files before using
-
-- _config.yml
-- /index.html - update default image and email
-- _includes/title.html - main title
-
-## Licensing
-
-[MIT](https://github.com/railsr/autm-rb/blob/master/LICENSE)
-
-[pages]: http://pages.github.com
-[fork]: https://github.com/railsr/autm-rb/fork
-[demo]: http://railsr.github.io/autm-rb/
