@@ -3,7 +3,7 @@
 Using **Autm-rb** Another theme for jekyll.
 based on shiori and midnight
 
-## [Link][link]
+## Link
 
 [blog.jorgebrunal.co](http://blog.jorgebrunal.co/)
 
